@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: end;
+}
+
+button{
+    background-color: rgb(79, 232, 9);
+    width: 100%;
+    text-align: end;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+
+}
